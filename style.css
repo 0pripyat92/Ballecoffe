@@ -176,6 +176,9 @@ button{
     font-weight: 400;
 }
 
+/*
+    -CARD-
+*/
 .receitas-card-container{
     padding: 0rem 10rem;
     display: flex;
@@ -245,6 +248,10 @@ button{
     color: #C7BAB3;
     font-weight: 600;
 }
+
+/* 
+    -FOOTER-
+*/
 footer{
     padding: 4rem;
     display: flex;
